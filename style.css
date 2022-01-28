@@ -1,0 +1,42 @@
+#title
+{
+  background-color: #980F5A;
+padding: 5% 5%;
+}
+h1
+{
+  font-family: Montserrat;
+  font-size: 2rem;
+  line-height: 1.8;
+  font-weight: bold;
+color: #ffff;
+
+  padding-bottom: 50px;
+}
+body{
+  font-family: ubunto;
+  box-sizing: border-box;
+}
+.set_width
+{
+  width: 60%;
+
+/* margin-left: 50px; */
+transform: rotate(30deg);
+padding: 30px 50px;
+}
+.navbar
+{
+
+  padding-bottom: 5%;
+
+}
+.nav-item
+{
+  padding:0px 40px;
+}
+.row
+{
+
+  padding: 2%;
+}
